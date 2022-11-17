@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emichulo
-- 👀 I’m interested in C++.
-- 🌱 I’m currently learning computer science.
+- 🤔 I’m interested in C++.
+- 📚 I’m currently learning computer science.
 - 📫 How to reach me: albu.emanuel26@gmail.com.
 
 <!---
